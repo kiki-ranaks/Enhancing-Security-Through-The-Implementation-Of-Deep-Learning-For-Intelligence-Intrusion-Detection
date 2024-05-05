@@ -4,15 +4,19 @@ This repository hosts the implementation of an intelligent intrusion detection s
 
 # Features
 ->Utilizes advanced algorithms and machine learning techniques for anomaly-based intrusion detection.
+
 ->Preprocesses input datasets to handle missing values, noisy data, and inconsistencies.
+
 ->Implements feature selection to enhance model performance and reduce computational costs.
+
 ->Employs GRU and LSTM classifiers with gated mechanisms to mitigate gradient problems.
+
 ->Evaluates model performance using metrics like accuracy, recall, f1score, and precision.
 
 # Installation
 Clone this repository to your local machine:
-'''
-git clone https://github.com/your_username/Enhancing-Security-Through-The-Implementation-Of-Deep-Learning-For-Intelligence-Intrusion-Detection.git'''
+
+'''git clone https://github.com/your_username/Enhancing-Security-Through-The-Implementation-Of-Deep-Learning-For-Intelligence-Intrusion-Detection.git'''
 
 Navigate to the project directory:
 '''
